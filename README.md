@@ -6,5 +6,3 @@ Leveraged the minimax algorithm for optimal move selection, ensuring challenging
 
 Conducted testing to ensure the AI consistently makes the best moves, leading to a robust gaming experience.
 
-Note: The game is played on the terminal
-
