@@ -1,4 +1,4 @@
-# AI-plays-Tic-Tac-Toe
+# AI-plays-Chess
 Designed and implemented an artificial intelligence algorithm, utilizing Python’s object-oriented programming
 principles, to play the game of Tic-Tac-Toe against human opponents.
 
